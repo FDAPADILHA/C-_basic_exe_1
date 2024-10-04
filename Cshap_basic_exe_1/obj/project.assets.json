@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filipe.padilha\\source\\repos\\Cshap_basic_exe_1\\Cshap_basic_exe_1\\Cshap_basic_exe_1.csproj",
+      "projectUniqueName": "C:\\Users\\filipe.padilha\\source\\repos\\Csharp_basic_exe_1\\Cshap_basic_exe_1\\Cshap_basic_exe_1.csproj",
       "projectName": "Cshap_basic_exe_1",
-      "projectPath": "C:\\Users\\filipe.padilha\\source\\repos\\Cshap_basic_exe_1\\Cshap_basic_exe_1\\Cshap_basic_exe_1.csproj",
+      "projectPath": "C:\\Users\\filipe.padilha\\source\\repos\\Csharp_basic_exe_1\\Cshap_basic_exe_1\\Cshap_basic_exe_1.csproj",
       "packagesPath": "C:\\Users\\filipe.padilha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filipe.padilha\\source\\repos\\Cshap_basic_exe_1\\Cshap_basic_exe_1\\obj\\",
+      "outputPath": "C:\\Users\\filipe.padilha\\source\\repos\\Csharp_basic_exe_1\\Cshap_basic_exe_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
